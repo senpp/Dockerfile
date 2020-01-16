@@ -1,0 +1,16 @@
+{
+  "name": "ppops/my_reviews",
+  "description": "A pet project",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "pp",
+          "email": "phuongthephung@gmail.com"
+      }
+  ],
+  "require": {
+    "slim/slim": "4.*",
+    "slim/psr7": "1.0.0"
+  }
+}
